@@ -1,6 +1,3 @@
-
-```md
-
 **Tooble Studios**, 2021 yılından bu yana yazılım ve oyun projeleri geliştiren, güvenilir ve sürdürülebilir sistemler üretmeyi hedefleyen bir teknoloji stüdyosudur.
 
 Oyuncularımıza ve kullanıcılarımıza **adil**, **güvenilir** ve **eğlenceli** bir deneyim sunmayı öncelik kabul ediyoruz.
@@ -68,4 +65,3 @@ Tooble Studios, Türk Telekom altyapısı kapsamında **BTK sertifikalıdır**.
 Tüm hakları saklıdır.
 
 Bu organizasyon altında yayımlanan projeler, ilgili lisansları çerçevesinde korunmaktadır.
-```
