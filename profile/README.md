@@ -10,43 +10,6 @@ Oyuncularımıza ve kullanıcılarımıza **adil**, **güvenilir** ve **eğlence
 - Otomasyon ve kontrol sistemleri  
 - Yönetim panelleri ve iç sistemler  
 
-## TEKNİK YAKLAŞIM
-
-Kullanılan teknolojiler ve altyapılar, projeye özel olarak seçilir ve uzun vadeli bakım esasına göre yapılandırılır.
-
-Başlıca kullanılan teknolojiler:
-- PHP  
-- JavaScript / Node.js  
-- HTML / CSS  
-- MySQL / SQLite  
-- Forge, Mohist ve Spigot tabanlı oyun altyapıları  
-
-Kodlama sürecinde okunabilirlik, sürdürülebilirlik ve güvenlik önceliklidir.
-
-## KURUMSAL PROFİL
-
-Tooble Studios; yazılım geliştirme, oyun altyapıları ve dijital sistemler üzerine odaklanmış, planlı ve denetlenebilir bir üretim süreci izler.
-
-Özellikle **Codeman RP** projeleri kapsamında, oyunculara stabil, adil ve kuralları net biçimde tanımlanmış bir rol yapma ortamı sunulmaktadır.
-
-Kurumsal yaklaşımımız:
-- Sistem güvenliği
-- Hizmet sürekliliği
-- Teknik şeffaflık
-- Operasyonel disiplin
-
-ilkeleri üzerine kuruludur.
-
-## GÜVENLİK POLİTİKASI
-
-Tooble Studios projelerinde güvenlik kritik öneme sahiptir.
-
-Herhangi bir güvenlik açığı veya risk tespit edilmesi durumunda:
-- Kamuya açık issue oluşturulmaması
-- Doğrudan yetkili iletişim kanallarının kullanılması
-
-zorunludur.
-
 ## İLETİŞİM BİLGİLERİ
 
 E-posta: tooblestudio@gmail.com  
