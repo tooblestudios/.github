@@ -17,9 +17,7 @@ Konum: Türkiye / Kayseri / Yahyalı
 
 ## SERTİFİKASYON VE YETKİLENDİRME
 
-Tooble Studios, Türk Telekom altyapısı kapsamında **BTK sertifikalıdır**.
-
-![Türk Telekom](https://diddyparty.xyz/upload/turktelekom.png)
+Tooble Studios, **BTK sertifikalıdır**.
 ![BTK](https://diddyparty.xyz/upload/BTK.jpg)
 
 ## YASAL BİLGİLENDİRME
